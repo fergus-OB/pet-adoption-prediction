@@ -16,3 +16,13 @@ The modelling workflow uses:
 - Adoption speed labels
 
 A small sample dataset may be added later for demonstration purposes.
+
+## Expected Raw Files
+
+This repository does not include the full raw Petfinder.my dataset.
+
+To run the scripts, download the dataset locally and place the following files in `data/raw/`:
+
+- `train.csv`
+- `breed_labels.csv`
+- `color_labels.csv`
